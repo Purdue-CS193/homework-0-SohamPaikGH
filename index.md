@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am testing regular text
 
+```markdown
+aksjhdkjashdkjasdhjkashdjka
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
